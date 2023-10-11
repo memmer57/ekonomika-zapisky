@@ -1,5 +1,3 @@
-# Čtvrtá hodina ekonomiky
-
 ## Životní úroveň
 
 - = míra uspokojování našich potřeb
