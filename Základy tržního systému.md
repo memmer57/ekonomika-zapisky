@@ -72,3 +72,43 @@
 - **Čím vyšší cena, tím větší nabízené množství**
 - Představuje množství zboží nabízeného všemi prodávajícími při určité ceně
   - "Zamýšlený prodej" - kolik toho chce výrobce prodat
+
+## Zákony trhu
+
+1. Zákon nabídky
+   - s rostoucí cenou roste i nabízené množství zboží
+2. Zákon poptávky
+   - S rostoucí cenou klesá poptávané množství zboží
+
+### Křivka poptávky
+
+- křivka má klesající tendenci
+- při snižování ceny poptávané množství roste
+- faktory ovlivňující poptávky
+  - cena
+  - demografické změny
+  - změny ve výši příjmů obyvatelstva
+    . změny v preferencích
+
+### Křivka nabídky
+
+- křivka má stoupající tendenci
+- při růstu ceny poroste nabízené množství
+- při poklesu ceny bude klesat nabízené množství
+- faktory ovlivňující nabídku:
+  - cena
+  - náklady na výrobu (včetně provozních nákladů)
+  - vnější podmínky podnikání
+
+### Situace na trhu I.
+
+- přebytek = poptávané množství je menší než množství nabízené
+
+### Situace na trhu II.
+
+- úbytek = poptávané množství je větší než množství nabízené
+
+### Graf nabídky a poptávky
+
+- posun po křivce - vlivem změny ceny daného statku/služby
+- posun celé křivky - vlivem změn všech ostatních proměnných
