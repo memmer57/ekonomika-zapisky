@@ -112,3 +112,9 @@
 
 - posun po křivce - vlivem změny ceny daného statku/služby
 - posun celé křivky - vlivem změn všech ostatních proměnných
+
+#### Úkol:
+
+![Alt text](image.png)
+
+- V grafu lze pozorovat, že ideální cena a množství másla je v tomto případě 25Kč na 500 (1/4Kg)
