@@ -100,21 +100,35 @@
   - náklady na výrobu (včetně provozních nákladů)
   - vnější podmínky podnikání
 
-### Situace na trhu I.
+## Situace na trhu I.
 
 - přebytek = poptávané množství je menší než množství nabízené
 
-### Situace na trhu II.
+## Situace na trhu II.
 
 - úbytek = poptávané množství je větší než množství nabízené
 
-### Graf nabídky a poptávky
+## Graf nabídky a poptávky
 
 - posun po křivce - vlivem změny ceny daného statku/služby
 - posun celé křivky - vlivem změn všech ostatních proměnných
 
-#### Úkol:
+## Úkol:
 
 ![Alt text](image.png)
 
 - V grafu lze pozorovat, že ideální cena a množství másla je v tomto případě 25Kč na 500 (1/4Kg)
+
+## Vznik rovnovážné ceny
+
+- konkurence na trhu = snaha o získání co největšího počtu kupujících
+- kupující mají možnost volby
+- cena i nabízené množství se v průběhu času mění
+- situace, kdy se vyrovná nabídka a poptávka = **rovnováha na trhu**
+- **rovnovážná cena, rovnovážné množství**
+
+## Zisk v tržním systému
+
+- je důvidem existence konkurence na trhu
+- stimuluje nabídku
+- **výsledek hospodaření** = _výnosy_-_náklady_
