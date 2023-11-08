@@ -115,7 +115,7 @@
 
 ## Úkol:
 
-![Alt text](image.png)
+![Alt text](images/image.png)
 
 - V grafu lze pozorovat, že ideální cena a množství másla je v tomto případě 25Kč na 500 (1/4Kg)
 
