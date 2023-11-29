@@ -95,3 +95,39 @@
 - Občanský zákoník
   - upravuje vztahy mezi podnikateli a mezi zákazníky a podnikateli
   - Zákon o obchodních korporacích
+
+## Postup vytvoření živnosti
+
+- Žádost o živnostenské oprávnění FO -> zápis do ŽR -> registrace k daním, soc. a zdrav. pojištění (na centrální registračním místě na ŽÚ)
+- Odpovědný zástupce
+- Pro schválení žádosti musíme splnit:
+  - Všeobecné podmínky (plná svéprávnost, bezúhonnost)
+  - Zvláštní podmínky (odobrná způsobilost) = vystudování v příslušném oboru, praxe v oboru v případě řemeslné/vázané
+
+### Ohlašovací živnost
+
+- **Volná** - nevyžaduje ani vzdělání ani praxi
+- **Řemeslná** - vyžaduje doklad o dosaženém vzdělání v oboru, vzdělání lze nahradit 6ti letou praxí
+- **Vázaná** - přísnější než řemeslná, vyžaduje jak praxi, tak vzdělání v oboru
+
+### Koncesované živnosti
+
+- Vyžaduje:
+  - Vzdělání
+  - Schválení příslušného orgánu státní správy
+
+## Riziko podnikání
+
+- Nezájem na nabízené produkty
+- Neprosazení se vůči konkurenci
+- Problém v rámci cashflow
+- Neplatící odběratelé
+- Problém ekonomomického prostředí -> krize
+
+## Obchodní společnosti
+
+- Vzniká uzavřením společenské smlouvy, umístěním sídla, zapsáním podpisového vzoru
+- Žádost o živnostenské oprávnění pro právnickou osobu
+- Návrh na zapsání společnosti do OR
+- Zápisem vzniká obchodní společnost
+- Registrace k placení daní, odvádění sociálního a zdravotního pojištění
