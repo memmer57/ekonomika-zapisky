@@ -131,3 +131,35 @@
 - Návrh na zapsání společnosti do OR
 - Zápisem vzniká obchodní společnost
 - Registrace k placení daní, odvádění sociálního a zdravotního pojištění
+
+### Kapitálové
+
+- **s.r.o.** (společnost s ručením omezeným) nebo **a.s.** (akciová společnost)
+- pokud jsem dodavatel nebo odběratel jako s.r.o., nikdy nemůžu utratit víc než je majetek firmy
+- pokud je majetek jedna koruna ručení společnosti je jedna koruna
+- společníci v ní nemusí přímo pracovat
+- ručí pouze do výše majetku společnosti - absolutní oddělení osobního a firemního majetky
+- společníci mohou přijít pouze o svůj počáteční vklad
+- nejvyšším orgánem je **"valná hromada"**
+- **tunelování firmy** = odvod majetku firmy do osobního vlastnictví pro vlastní potřeby
+
+#### s.r.o.
+
+- nejrozšířenější typ společnosti (v ČR i ve světě)
+- ručení: do výše vkladu
+- minimální povinný vklad: 1kč, určeny podíly
+- řízení: valná hromada, statutární orgán = **jednatel**
+- rozdělení zisku: dle podílů nebo společenské smlouvy
+- korunové společnosti
+- nevýhody
+  - zdanění:
+    - příjem právnické osoby 19% + se ještě daní příjem daného zaměstnance
+      - dvojí zdanění
+  - větší míra administrativních povinností (např. vedení účetnictví)
+  - nutnost existence a fungování **valné hromady**
+
+#### a.s.
+
+- minimální povinný vklad: 2 000 000kč
+
+### Osobní
