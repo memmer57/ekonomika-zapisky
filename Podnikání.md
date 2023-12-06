@@ -176,3 +176,25 @@
 - Nejvyšším orgánem jsou všichni společníci (každý z nich)
 - v.o.s. - veřejná obchodní společnost
 - k.s. - komanditní společnost
+- Nenastává dvojí zdanění zisku
+
+#### V.O.S
+
+- zakládají minimálně 2 společníci
+- ručení: osobním majetkem
+- vklad: není předepsán
+- řízení: všichni společníci, každý má právo veta, každý je zároveň statutárním orgánem
+- rozdělení zisku: rovným dílem, dle společenské smlouvy
+
+#### K.S.
+
+- komanditisté (kms), komplementáři (kpl)
+- Kms - vkládá do společnosti kapitál a nadále se neúčastní jejího obchodního vedení
+- Kpl - nevkládá na počátku do společnosti žádný majetek, ale ručí celým svým osobním majetkem a je pověřen obchodním vedením společnosti
+
+### Povinnosti podnikatele
+
+1. Provozovna - označená, umožní přístup pro kontrolní pracovníky
+2. Prodej - označení zboží cenami, možnost vystavení dokladu
+3. Zaměstnanci - vedení evidence, zajištění bezpečnosti a ochrany zdraví při práci
+4. Finance
