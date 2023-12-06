@@ -160,6 +160,19 @@
 
 #### a.s.
 
-- minimální povinný vklad: 2 000 000kč
+- minimální povinný vklad: 2 000 000 kč
+- tvořena větším množstvím kapitálu - vhodné při založení podnikání s vysokými vstupními náklady
+- akcie můžou a nemusí být volně obchodovatelné
+- akcie = cenný papír, který dává svému vlastníkovi právo podílet se na řízení, na zisku...
+- ručení: za závazky ručí celým svým majetkem (hodnoceným dle hodnoty akcií, o které vlastník přijde)
+- pokud má být akcie volně obchodovatelná, minimální vklad je 20mil kč
+- řízení: valná hromada, statutární orgán = představenstvo (kontrolováno dozorčí radou) NEBO statutární ředitel (kontrolován správní radou)
+- rozdělení zisku: dle počtu a hodnoty akcií
 
 ### Osobní
+
+- Všichni (nebo část) společníků ručí celým svým firemním i osobním majetkem
+- Společníci ve firmě osobně pracují
+- Nejvyšším orgánem jsou všichni společníci (každý z nich)
+- v.o.s. - veřejná obchodní společnost
+- k.s. - komanditní společnost
