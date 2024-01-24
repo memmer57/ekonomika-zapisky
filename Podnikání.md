@@ -198,3 +198,30 @@
 2. Prodej - označení zboží cenami, možnost vystavení dokladu
 3. Zaměstnanci - vedení evidence, zajištění bezpečnosti a ochrany zdraví při práci
 4. Finance
+
+## Správa financí
+
+- PO - povinnost vedení účetnictví - buď v plném či zkráceném rozsahu (dle výše obratu, počtu zaměstnanců atd.)
+- FO - povinnost vedení minimálně daňové evidence
+- povinnost odevzdání daňového přiznání
+
+## Neziskové instituce
+
+- jejich cílem je zlepšování úrovně společnosti
+
+1. Příspěvkové organizace
+2. Nestátní neziskové subjekty
+
+## Příspěvkové organizace
+
+= právnické osoby, které své výdaje hradí především z příspěvku od zřizovatele, plní úkoly z veřejných zájmů
+
+- školy, muzea, nemocnice...
+- nemá "vlastní majetek", ale pouze majetek "svěřovaný zřizovatelem"
+
+## Nestátní neziskové subjekty
+
+= PO, které majetek získávají z příspěvků členů, z darů nebo vedlejší hospodářské činnosti
+
+- spolky, nadační fondy/nadace, ústavy, účelová zařízení církví
+- zisk z vedlejší hospodářské činnosti musí být použit výhradně na úhradu nákladů vzniklých ve spojení s hlavní činností
