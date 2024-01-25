@@ -27,3 +27,15 @@
 - Např. technický/výrobní/ekonomický úsek
 - Určení odpovědnosti, jasné rozdělení funkcí/úkolů
 - Týmová spolupráce, delegování
+
+## Vedení a motivace
+
+- **Negativní motivace** - vhodná při netvůrčí práci
+- **Pozitivní motivace** - považována za účinnější, učí samostatnému zkvalitňování odvedené práce
+- **Morální podněty** - pochvaly/důtky
+- **Hmotné podněty** - odměny/srážky, pokuty, věcné odměny
+
+## Kontrola
+
+- Zjišťování skutečného stavu a porovnání se stavem žádoucím
+- **Feedback** - zjištění příčin, přijetí opatření k nápravě
