@@ -94,3 +94,13 @@
 - **Výpověď pro nadbytečnost** - zánik korporace, reorganizace
   - Nárok na odstupné - ve výši trojnásobku mzdy
 - **Výpověď ze strany zaměstnance** - může být podána bez podání důvodu
+
+## Další případy ukončení pracovního poměru
+
+- Zrušení ve zkušební době
+- Uplynutí doby, na kterou byla prac. smlouva sjednána
+- Možnost okamžitého zrušení pracovního poměru = **"výpověď na hodinu"**
+  - Zaměstnavatel
+    - V případě např. užívání návykových látek, fyzické napadení, krádež šikana (vše musí být prokázáno) - všechny případy sepsány v zákoníku práce
+  - Zaměstnanec
+    - Pouze když nedostanu mzdu
